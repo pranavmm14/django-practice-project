@@ -50,4 +50,4 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 The tutorials by CodeWithHarry on YouTube, which served as a reference for implementing the login page and multi-user authentication features.
 
 ### Contact
-If you have any questions or feedback, feel free to contact me at [pranav.mehendale456@gmail.com](pranav.mehendale456@gmail.com).
+If you have any questions or feedback, feel free to contact me at [pranav.mehendale456@gmail.com](mailTo:pranav.mehendale456@gmail.com).
