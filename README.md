@@ -16,6 +16,38 @@ Make sure you have the following software installed on your system:
 ### Installation
 
 1. Clone this repository to your local machine using the following command:
-
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/pranavmm14/django-practice-project.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd your-repo
+
+3. Install the project dependencies by running:
+   ```bash
+   pip install -r requirements.txt
+   
+4. Start the development server:
+   ```bash
+   python manage.py runserver
+
+5. Open your web browser and visit to [http://localhost:8000](http://localhost:8000) access the application.
+
+### Features
+
+_Building_
+
+### Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
+
+### License
+
+This project is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to modify and distribute it as per your needs.
+
+### Acknowledgement
+
+The tutorials by CodeWithHarry on YouTube, which served as a reference for implementing the login page and multi-user authentication features.
+
+### Contact
+If you have any questions or feedback, feel free to contact me at [pranav.mehendale456@gmail.com](pranav.mehendale456@gmail.com).
